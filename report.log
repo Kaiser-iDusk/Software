@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.18)  19 MAY 2023 03:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.18)  19 MAY 2023 03:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1248,7 +1248,12 @@ Package pdftex.def Info: ./Photos/OUT5.jpg  used on input line 340.
 File: ./Photos/OUT1.jpg Graphic file (type jpg)
 <use ./Photos/OUT1.jpg>
 Package pdftex.def Info: ./Photos/OUT1.jpg  used on input line 344.
-(pdftex.def)             Requested size: 227.60606pt x 227.61096pt.
+(pdftex.def)             Requested size: 256.05025pt x 227.61096pt.
+
+Overfull \hbox (4.05025pt too wide) in paragraph at lines 344--346
+ [][] 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
